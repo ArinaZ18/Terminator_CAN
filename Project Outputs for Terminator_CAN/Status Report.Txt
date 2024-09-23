@@ -1,0 +1,29 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:41:20 On 16.09.2024
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [T_CAN.PcbDoc]
+   Generated File[T_CAN.GTO]
+   Generated File[T_CAN.GTP]
+   Generated File[T_CAN.GTS]
+   Generated File[T_CAN.GTL]
+   Generated File[T_CAN.GBL]
+   Generated File[T_CAN.GBS]
+   Generated File[T_CAN.GM1]
+   Generated File[T_CAN.GM2]
+   Generated File[T_CAN.GM4]
+   Generated File[T_CAN.GM13]
+   Generated File[T_CAN.GM15]
+   Generated File[T_CAN.GPT]
+   Generated File[T_CAN.GPB]
+   Generated File[T_CAN.GM]
+   Generated File[T_CAN.EXTREP]
+   Generated File[T_CAN.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 1:41:20 On 16.09.2024
