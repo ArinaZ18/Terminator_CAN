@@ -4,14 +4,14 @@ C:\Users\Public\Documents\Altium\Terminator_CAN\Project Outputs for Terminator_C
 ========================================================================================================================
 File Design Information:
 
-Date:       16.09.24
-Time:       01:36
-Revision:   Not in VersionControl
+Date:       25.09.24
+Time:       01:38
+Revision:   eae13bdb7aa2da33a935ed707fcacdb2e2bfa535
 Variant:    No variations
 Units used: mil
 
 Designator Comment   Layer    Footprint                Center-X(mil) Center-Y(mil) Rotation Description                                                          
 J1         D-sub     TopLayer ASSMANN_A-DF_09_A_KG-T2S 1269.685      619.882       90       "9 Position D-Sub Receptacle, Female Sockets Connector"              
 R2         "120 ohm" TopLayer R0805                    964.567       994.095       270      "Chip Resistor Automotive Grade Thick Film 0805 120Ohm 1% Paper T/R" 
-R1         "120 ohm" TopLayer R0805                    1003.937      226.378       90       "Chip Resistor Automotive Grade Thick Film 0805 120Ohm 1% Paper T/R" 
-J2         D-sub     TopLayer ASSMANN_A-DF_09_A_KG-T2S 616.929       624.606       270      "9 Position D-Sub Receptacle, Female Sockets Connector"              
+R1         "120 ohm" TopLayer R0805                    974.409       265.748       90       "Chip Resistor Automotive Grade Thick Film 0805 120Ohm 1% Paper T/R" 
+J2         D-sub     TopLayer ASSMANN_A-DF_09_A_KG-T2S 616.929       625.394       270      "9 Position D-Sub Receptacle, Female Sockets Connector"              
